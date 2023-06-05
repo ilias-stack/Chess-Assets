@@ -1,2 +1,2 @@
 # Chess-Assets
-Unity Assets file to help you start a chess game in unity
+Unity Assets folder to help you start a chess game in unity
